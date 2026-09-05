@@ -215,6 +215,40 @@ The drift monitor uses **Population Stability Index (PSI)** on 6 key features:
 
 ---
 
-## License
+## ScreenShots
 
-MIT
+<img width="1920" height="885" alt="Screenshot (2835)" src="https://github.com/user-attachments/assets/834cff06-82f2-48fa-ab09-f97af749bd4d" />
+
+
+<img width="1920" height="897" alt="Screenshot (2846)" src="https://github.com/user-attachments/assets/413ade7d-e0b9-4916-95b6-2ba8032642a1" />
+<img width="1920" height="878" alt="Screenshot (2836)" src="https://github.com/user-attachments/assets/fdc34a36-c573-4cd8-af64-88c62202f629" />
+
+
+
+
+
+<img width="1920" height="899" alt="Screenshot (2837)" src="https://github.com/user-attachments/assets/3d587d16-c56a-436c-8aa3-7ce3c364536b" />
+
+<img width="1920" height="883" alt="Screenshot (2838)" src="https://github.com/user-attachments/assets/a335aa69-e771-4537-b2ef-5a7a2f593a8e" />
+<img width="1920" height="880" alt="Screenshot (2839)" src="https://github.com/user-attachments/assets/197aee17-ed01-4d72-8a28-ef1856ba43eb" />
+
+
+<img width="1920" height="906" alt="Screenshot (2840)" src="https://github.com/user-attachments/assets/f6f0d660-40da-498e-8eac-f310f8bd4f2f" />
+
+
+<img width="1920" height="856" alt="Screenshot (2841)" src="https://github.com/user-attachments/assets/1f6376cb-d8c8-4c7b-94da-428ddce0ae3f" />
+
+<img width="1920" height="831" alt="Screenshot (2842)" src="https://github.com/user-attachments/assets/d17e913a-acf1-44ef-a103-ce17cd0eec9a" />
+
+
+
+<img width="1920" height="904" alt="Screenshot (2843)" src="https://github.com/user-attachments/assets/ad6b52f7-3470-4afb-95a5-e16bada4c343" />
+
+
+<img width="1920" height="902" alt="Screenshot (2844)" src="https://github.com/user-attachments/assets/f832c530-7b50-4fc0-9608-1506577c9e62" />
+
+
+
+<img width="1920" height="867" alt="Screenshot (2845)" src="https://github.com/user-attachments/assets/ecb9d59f-0696-4809-b22f-9abb80c57867" />
+
+
