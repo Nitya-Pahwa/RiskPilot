@@ -18,8 +18,8 @@ from automl_agent.utils.visualizer import (
 )
 
 
-st.set_page_config(page_title="Agentic AutoML", layout="wide")
-st.title("Agentic AutoML Pipeline")
+st.set_page_config(page_title="AutoCraft AI - Agentic AutoML", layout="wide")
+st.title("AutoCraft AI - Agentic AutoML Pipeline")
 
 
 @st.cache_resource(show_spinner="Loading ML pipeline...")
